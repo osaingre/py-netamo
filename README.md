@@ -1,0 +1,2 @@
+# py-netamo
+py-netatmo
